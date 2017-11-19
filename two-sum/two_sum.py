@@ -7,7 +7,7 @@ class Solution(object):
         """
         d = {}
         if len(nums) < 1:
-            return false
+            return False
         for i in range(len(nums)):
             if nums[i] in d:
                 return [d[nums[i]], i]
