@@ -6,6 +6,8 @@
 
 * [Remove Duplicates from Sorted Array](./remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.md)
 
+* [Remove Element](./remove-element/remove-element.md)
+
 * [Tenth Line](./tenth-line/tenth-line.md)
 
 * [Two Sum](./two-sum/two_sum.md)
