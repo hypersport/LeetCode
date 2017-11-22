@@ -15,3 +15,7 @@
 * [Two Sum](./two-sum/two_sum.md)
 
 * [Word Frequency](./word-frequency/word_frequency.md)
+
+**注意：**
+
+不保证也几乎肯定不是各个问题的最优解 。
