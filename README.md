@@ -18,6 +18,8 @@
 
 * [Tenth Line](./tenth-line/tenth_line.md)
 
+* [Transpose File](./transpose-file/transpose_file.md)
+
 * [Two Sum](./two-sum/two_sum.md)
 
 * [Valid Phone Numbers](./valid-phone-numbers/valid_phone_numbers.md)
