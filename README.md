@@ -20,6 +20,8 @@
 
 * [Two Sum](./two-sum/two_sum.md)
 
+* [Valid Phone Numbers](./valid-phone-numbers/valid_phone_numbers.md)
+
 * [Word Frequency](./word-frequency/word_frequency.md)
 
 **注意：**
