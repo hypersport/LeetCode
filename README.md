@@ -2,6 +2,8 @@
 
 平时闲暇之余做的 [LeetCode](https://leetcode.com/) 上的练习题 。
 
+* [Climbing Stairs](./climbing-stairs/climbing_stairs.md)
+
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
 
 * [Maximum Subarray](./maximum-subarray/maximum_subarray.md)
