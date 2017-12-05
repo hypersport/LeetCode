@@ -16,5 +16,5 @@ Input: search("hell"), Output: False
 Input: search("leetcoded"), Output: False
 ```
 
-（[PS：第一次超过100%提交者](./beat_100%_go_submissions.png)）
+（[PS：第一次超过100%提交者](./beat_go_submissions.png)）
 
