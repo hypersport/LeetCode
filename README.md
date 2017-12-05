@@ -2,6 +2,8 @@
 
 平时闲暇之余做的 [LeetCode](https://leetcode.com/) 上的练习题 。
 
+* [Binary Number with Alternating Bits](./binary-number-with-alternating-bits/binary_number_with_alternating_bits.md)
+
 * [Climbing Stairs](./climbing-stairs/climbing_stairs.md)
 
 * [Implement Magic Dictionary](./implement-magic-dictionary/implement_magic_dictionary.md)
