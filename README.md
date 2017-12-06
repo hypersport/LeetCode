@@ -6,6 +6,8 @@
 
 * [Climbing Stairs](./climbing-stairs/climbing_stairs.md)
 
+* [Count Binary Substrings](./count-binary-substrings/count_binary_substrings.md)
+
 * [Implement Magic Dictionary](./implement-magic-dictionary/implement_magic_dictionary.md)
 
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
