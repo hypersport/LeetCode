@@ -26,6 +26,8 @@
 
 * [Search Insert Position](./search-insert-position/search_insert_position.md)
 
+* [Swap Salary](./swap-salary/swap_salary.md)
+
 * [Tenth Line](./tenth-line/tenth_line.md)
 
 * [Transpose File](./transpose-file/transpose_file.md)
