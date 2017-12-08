@@ -6,6 +6,8 @@
 
 * [Binary Number with Alternating Bits](./binary-number-with-alternating-bits/binary_number_with_alternating_bits.md)
 
+* [Classes More Than 5 Students](./classes-more-than-5-students/classes_more_than_5_students.md)
+
 * [Climbing Stairs](./climbing-stairs/climbing_stairs.md)
 
 * [Count Binary Substrings](./count-binary-substrings/count_binary_substrings.md)
