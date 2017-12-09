@@ -14,6 +14,8 @@
 
 * [Implement Magic Dictionary](./implement-magic-dictionary/implement_magic_dictionary.md)
 
+* [Is Subsequence](./is-subsequence/is_subsequence.md)
+
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
 
 * [Maximum Subarray](./maximum-subarray/maximum_subarray.md)
