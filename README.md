@@ -20,6 +20,8 @@
 
 * [Maximum Subarray](./maximum-subarray/maximum_subarray.md)
 
+* [Minimum Depth of Binary Tree](./minimum-depth-of-binary-tree/minimum_depth_of_binary_tree.md)
+
 * [Palindrome Number](./palindrome-number/palindrome_number.md)
 
 * [Remove Duplicates from Sorted Array](./remove-duplicates-from-sorted-array/remove_duplicates_from_sorted_array.md)
