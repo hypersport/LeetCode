@@ -22,6 +22,8 @@
 
 * [Minimum Depth of Binary Tree](./minimum-depth-of-binary-tree/minimum_depth_of_binary_tree.md)
 
+* [Move Zeroes](./move-zeroes/move_zeroes.md)
+
 * [Not Boring Movies](./not-boring-movies/not_boring_movies.md)
 
 * [Palindrome Number](./palindrome-number/palindrome_number.md)
