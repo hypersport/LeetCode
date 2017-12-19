@@ -18,6 +18,8 @@
 
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
 
+* [Maximum Depth of Binary Tree](./maximum-depth-of-binary-tree/maximum_depth_of_binary_tree.md)
+
 * [Maximum Subarray](./maximum-subarray/maximum_subarray.md)
 
 * [Minimum Depth of Binary Tree](./minimum-depth-of-binary-tree/minimum_depth_of_binary_tree.md)
