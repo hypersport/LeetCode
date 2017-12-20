@@ -38,6 +38,8 @@
 
 * [Search Insert Position](./search-insert-position/search_insert_position.md)
 
+* [Shortest Unsorted Continuous Subarray](./shorted-unsorted-continuous-subarray/shorted_unsorted_continuous_subarray.md)
+
 * [Swap Salary](./swap-salary/swap_salary.md)
 
 * [Tenth Line](./tenth-line/tenth_line.md)
