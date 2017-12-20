@@ -4,6 +4,8 @@
 
 * [1-bit and 2-bit Characters](./1-bit-and-2-bit-characters/1-bit_and_2-bit_characters.md)
 
+* [Big Countries](./big-countries/big_countries.md)
+
 * [Binary Number with Alternating Bits](./binary-number-with-alternating-bits/binary_number_with_alternating_bits.md)
 
 * [Classes More Than 5 Students](./classes-more-than-5-students/classes_more_than_5_students.md)
