@@ -20,6 +20,8 @@
 
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
 
+* [Map Sum Pairs](./map-sum-pairs/map_sum_pairs.md)
+
 * [Maximum Depth of Binary Tree](./maximum-depth-of-binary-tree/maximum_depth_of_binary_tree.md)
 
 * [Maximum Subarray](./maximum-subarray/maximum_subarray.md)
