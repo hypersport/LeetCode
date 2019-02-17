@@ -20,7 +20,7 @@
 
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
 
-* [License Key Formatting](.license-key-formatting/license_key_formatting.md)
+* [License Key Formatting](./license-key-formatting/license_key_formatting.md)
 
 * [Map Sum Pairs](./map-sum-pairs/map_sum_pairs.md)
 
