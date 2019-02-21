@@ -16,6 +16,8 @@
 
 * [Implement Magic Dictionary](./implement-magic-dictionary/implement_magic_dictionary.md)
 
+* [Implement Stack Using Queues](./implement-stack-using-queues/implement_stack_using_queues.md)
+
 * [Is Subsequence](./is-subsequence/is_subsequence.md)
 
 * [Length of Last Word](./length-of-last-word/length_of_last_word.md)
