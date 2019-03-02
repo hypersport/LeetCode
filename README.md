@@ -52,6 +52,8 @@
 
 * [Swap Salary](./swap-salary/swap_salary.md)
 
+* [Symmetric Tree](./symmetric-tree/symmetric_tree.md)
+
 * [Tenth Line](./tenth-line/tenth_line.md)
 
 * [Transpose File](./transpose-file/transpose_file.md)
