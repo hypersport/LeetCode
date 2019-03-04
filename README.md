@@ -4,6 +4,8 @@
 
 * [1-bit and 2-bit Characters](./1-bit-and-2-bit-characters/1-bit_and_2-bit_characters.md)
 
+* [Assign Cookies](./assign-cookies/assign_cookies.md)
+
 * [Big Countries](./big-countries/big_countries.md)
 
 * [Binary Number with Alternating Bits](./binary-number-with-alternating-bits/binary_number_with_alternating_bits.md)
