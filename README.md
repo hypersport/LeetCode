@@ -6,6 +6,8 @@
 
 * [Assign Cookies](./assign-cookies/assign_cookies.md)
 
+* [Best Time To Buy And Sell Stock](./best-time-to-buy-and-sell-stock/best_time_to_buy_and_sell_stock.md)
+
 * [Big Countries](./big-countries/big_countries.md)
 
 * [Binary Number with Alternating Bits](./binary-number-with-alternating-bits/binary_number_with_alternating_bits.md)
@@ -30,7 +32,7 @@
 
 * [Linked List Cycle](./linked-list-cycle/linked_list_cycle.md)
 
-* [Longest Increasing Subsequence](./longest-increasing-subsequence.md)
+* [Longest Increasing Subsequence](./longest-increasing-subsequence/longest_increasing_subsequence.md)
 
 * [Map Sum Pairs](./map-sum-pairs/map_sum_pairs.md)
 
