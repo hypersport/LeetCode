@@ -30,6 +30,8 @@
 
 * [Linked List Cycle](./linked-list-cycle/linked_list_cycle.md)
 
+* [Longest Increasing Subsequence](./longest-increasing-subsequence.md)
+
 * [Map Sum Pairs](./map-sum-pairs/map_sum_pairs.md)
 
 * [Maximum Depth of Binary Tree](./maximum-depth-of-binary-tree/maximum_depth_of_binary_tree.md)
