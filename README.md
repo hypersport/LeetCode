@@ -72,6 +72,8 @@
 
 * [Two Sum](./two-sum/two_sum.md)
 
+* [Valid Palindrome II](./valid-palindrome-ii/valid_palindrome_ii.md)
+
 * [Valid Phone Numbers](./valid-phone-numbers/valid_phone_numbers.md)
 
 * [Word Frequency](./word-frequency/word_frequency.md)
