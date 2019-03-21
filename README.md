@@ -62,6 +62,8 @@
 
 * [Shortest Unsorted Continuous Subarray](./shorted-unsorted-continuous-subarray/shorted_unsorted_continuous_subarray.md)
 
+* [Sort Array By Parity](./sort-array-by-parity/sort_array_by_parity.md)
+
 * [Swap Salary](./swap-salary/swap_salary.md)
 
 * [Symmetric Tree](./symmetric-tree/symmetric_tree.md)
