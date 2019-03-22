@@ -62,7 +62,7 @@
 
 * [Shortest Distance to a Character](./shortest-distance-to-a-character/shortest_distance_to_a_character.md)
 
-* [Shortest Unsorted Continuous Subarray](./shorted-unsorted-continuous-subarray/shorted_unsorted_continuous_subarray.md)
+* [Shortest Unsorted Continuous Subarray](./shortest-unsorted-continuous-subarray/shortest_unsorted_continuous_subarray.md)
 
 * [Sort Array By Parity](./sort-array-by-parity/sort_array_by_parity.md)
 
